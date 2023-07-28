@@ -41,6 +41,12 @@ img{
     
 }
 
+.navbar li:hover{
+    background-color: blueviolet;
+    color: white;
+
+}
+
 .navbar{
     display: flex;
     align-items: center;
@@ -62,3 +68,8 @@ img{
     
 }
 
+button{
+    background-color:bisque;
+    border-radius: 25%;
+    border: 1px solid bisque;
+}
