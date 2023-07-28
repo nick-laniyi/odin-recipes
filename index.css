@@ -1,0 +1,29 @@
+*{
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+img{
+    width: auto;
+    height: 200px;
+}
+
+.header{
+    text-align: center;
+    background-color:brown;
+}
+
+.navbar ul{
+    list-style-type: none;
+    padding: 4px;
+    margin: 0;
+}
